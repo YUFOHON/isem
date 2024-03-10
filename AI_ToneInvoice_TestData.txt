@@ -1,0 +1,67 @@
+Test Data 1
+order number, A123456B5678784(7)
+number of items, 4
+Item 1, 1121, Quantity, 4, price, 108.00
+Item 2, 2134, Quantity, 4, price, 198.00
+Item 3, 3019, Quantity, 3, price, 158.70
+Item 4, 4018, Quantity, 1, price, 280.00
+sub_total, 744.70
+VIP discount, -2.00
+VIP95 discount, -37.14
+Delivery Fee, 0
+Total, 705.56
+Mall dollars, 0.0
+
+Test Data 2
+order number, A456789B5678793(0)
+number of items, 3
+Item 1, 1121, Quantity, 4, price, 108.00
+Item 2, 2134, Quantity, 4, price, 198.00
+Item 3, 3019, Quantity, 3, price, 158.70
+sub_total, 464.70
+VIP discount, -4.70
+VIP97 discount, -14.00
+Delivery Fee, 50
+Total, 496.00
+Mall dollars, 0.0
+
+Test Data 3
+order number, A123456B5678806(3)
+number of items, 6
+Item 1, 1234, Quantity, 3, price, 108.00
+Item 2, 2345, Quantity, 4, price, 198.00
+Item 3, 3456, Quantity, 3, price, 158.70
+Item 4, 4567, Quantity, 1, price, 280.00
+Item 5, 5678, Quantity, 3, price, 158.70
+Item 6, 6789, Quantity, 1, price, 400.00
+sub_total, 1303.40
+VIP discount, -0.00
+VIP85 discount, -195.51
+Delivery Fee, 0
+Total, 1107.89
+Mall dollars, 2.22
+
+Test Data 4
+order number, A456789A5678811(4)
+number of items, 1
+Item 1, 1411, Quantity, 15, price, 900.00
+Isub_total, 900.00
+VIP discount, -20.00
+VIP90 discount, -88.00
+Delivery Fee, 0
+Total, 792.00
+Mall dollars, 1.58
+
+Test Data 5
+order number, A133456A5678824(7)
+number of items, 4
+Item 1, 1121, Quantity, 4, price, 108.00
+Item 2, 2134, Quantity, 4, price, 198.00
+Item 3, 3019, Quantity, 3, price, 158.70
+Item 4, 4018, Quantity, 1, price, 280.00
+sub_total, 744.70
+VIP discount, -10.00
+VIP98 discount, -14.70
+Delivery Fee, 50
+Total, 770.00
+Mall dollars, 0.0
